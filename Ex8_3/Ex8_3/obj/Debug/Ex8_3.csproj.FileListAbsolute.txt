@@ -1,0 +1,5 @@
+c:\users\asus\documents\visual studio 2013\Projects\Ex8_3\Ex8_3\bin\Debug\Ex8_3.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Ex8_3\Ex8_3\obj\Debug\Ex8_3.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\Ex8_3\Ex8_3\obj\Debug\Ex8_3.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\Ex8_3\Ex8_3\obj\Debug\Ex8_3.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\Ex8_3\Ex8_3\obj\Debug\Ex8_3.csproj.GenerateResource.Cache
